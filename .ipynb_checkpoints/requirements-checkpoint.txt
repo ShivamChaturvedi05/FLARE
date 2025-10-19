@@ -1,0 +1,8 @@
+numpy
+matplotlib
+astropy
+scikit-learn
+opencv-python
+tensorflow
+pandas
+notebook
