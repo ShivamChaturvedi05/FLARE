@@ -11,7 +11,7 @@ Follow these steps to set up and run the project:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone [https://github.com/ShivamChaturvedi05/FLARE.git](https://github.com/ShivamChaturvedi05/FLARE.git)
+git clone https://github.com/ShivamChaturvedi05/FLARE.git
 cd FLARE
 ```
 
